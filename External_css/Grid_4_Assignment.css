@@ -1,0 +1,25 @@
+.container{
+    border: 1px solid  ;
+    background: linear-gradient(to right, #66ffcc 10%, #3399ff 100%);
+    width: 100%;
+}
+
+.row{
+    width: 90%;
+    margin: auto;
+    color: #ffff;
+}
+
+.boy{
+    padding: 20px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.boy1{
+    padding: 20px;
+    font-size: 12px;
+    text-align: center;
+    
+
+}
